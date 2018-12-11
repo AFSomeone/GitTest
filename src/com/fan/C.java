@@ -1,13 +1,15 @@
 package com.fan;
 
 public class C {
-    prviate String c;
-
-    public prviate getString() {
-        return String;
+    public String getC() {
+        return c;
     }
 
-    public void setString(prviate string) {
-        String = string;
+    public void setC(String c) {
+        this.c = c;
     }
+
+    private String c;
+
+
 }
