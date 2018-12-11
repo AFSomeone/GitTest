@@ -1,5 +1,6 @@
 package com.fan;
 
 public class C {
-    prviate String c;
+    private String c;
+    private String c2;
 }
